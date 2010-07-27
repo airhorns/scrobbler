@@ -1,7 +1,5 @@
 require 'digest/md5'
 
-$KCODE = 'u'
-
 include LibXML
 
 module Scrobbler
